@@ -1,0 +1,7 @@
+*.vsconfig
+*.csproj
+*.sln
+QuadTree/Library/
+QuadTree/Logs/
+QuadTree/UserSettings/EditorUserSettings.asset
+QuadTree/UserSettings/Layouts/default-2022.dwlt
